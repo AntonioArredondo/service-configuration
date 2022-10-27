@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f57de4f4-ddfb-43e7-86d8-1057175653a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/product-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-microservice-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666801219222</updated>
       <workItem from="1666801220400" duration="5197000" />
-      <workItem from="1666831577063" duration="649000" />
+      <workItem from="1666831577063" duration="816000" />
     </task>
     <servers />
   </component>
