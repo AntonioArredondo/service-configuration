@@ -5,6 +5,8 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/booking-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/booking-microservice-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-microservice-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-microservice-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
       <updated>1666801219222</updated>
       <workItem from="1666801220400" duration="5197000" />
       <workItem from="1666831577063" duration="2599000" />
-      <workItem from="1666888514762" duration="1511000" />
+      <workItem from="1666888514762" duration="1807000" />
     </task>
     <servers />
   </component>
